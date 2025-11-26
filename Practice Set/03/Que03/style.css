@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin:0;
+
+}
+
+#lights{
+
+    width: 170px;
+    background-color: gray;
+}
+#l1,#l2,#l3 {
+    height: 166.6px;
+    width: 166.6px;
+    /* margin: 3%; */
+    
+    border-radius: 50%;
+ 
+}
+
+#l1{
+    background-color: red;
+}
+
+#l2{
+    background-color: green;
+}
+
+#l3{
+    background-color:yellow
+}
