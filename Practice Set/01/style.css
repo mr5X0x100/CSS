@@ -1,0 +1,20 @@
+/* * {
+    padding :0;
+    margin:0;
+} */
+#box{
+    color:blue;
+}
+
+.heading {
+    color: red;
+}
+.que{
+    background-color: rgb(188, 193, 191);
+}
+.space {
+    background-color: blanchedalmond;
+}
+#btn{
+    background-color: green;
+}
