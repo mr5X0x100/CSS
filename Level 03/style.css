@@ -1,0 +1,13 @@
+#box1{
+    height:100px;
+    width:100px;
+    background-color:rgb(134, 134, 190);
+    position: sticky;
+    top: 200px;
+}
+
+p{
+    background-image:url('https://i0.wp.com/jamierubin.net/wp-content/uploads/2022/03/pexels-photo-1237119.jpeg?resize=1200%2C798&ssl=1') ;
+    
+    background-size:contain;
+}

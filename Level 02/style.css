@@ -1,0 +1,16 @@
+#Box{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(98, 182, 98);
+    border-color:black;
+    border-width: 10px;
+    border-style: solid;
+
+    border: 2px solid black;
+
+    border-radius:30px;
+    /* border-radius: 50%; */
+    padding: 20px;
+    display: inline-block;
+
+}

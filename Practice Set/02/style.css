@@ -1,0 +1,19 @@
+body{
+    background-color: lightsalmon;
+}
+#cap{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#sample-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;    
+}

@@ -5,10 +5,27 @@ h1{
     color:red;
 }
 
+h2{
+    color:blue;    
+}
 #p1{
     color:rgb(200,100,210)
 }
 
 #p2{
     color:#f01133
+}
+
+#txt1{
+    text-transform: uppercase;
+}
+
+#txt2{
+    text-transform: lowercase;
+}
+#txt3{
+    text-transform: capitalize;
+}
+#txt4{
+    text-transform: none;
 }

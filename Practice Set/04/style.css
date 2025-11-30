@@ -24,6 +24,15 @@ a{
     text-decoration: none;
 }
 
+footer{
+
+    background-color:black;
+}
 #content{
-    background-color:#f08804
+    height: 900px;
+    background-color: #7e7b76;
+}
+
+div{
+    border: 2px solid black;
 }
