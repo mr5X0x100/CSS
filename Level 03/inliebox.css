@@ -1,0 +1,43 @@
+body{
+    background-color: cadetblue;
+}
+div{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    background-color: blue;
+    margin:2px;
+    display: inline-block;
+    border:  red solid 2px ;
+}
+
+#box1{
+    background-color: aqua;
+    background-image: url("./profiles\ photos/person1.jpeg");
+    background-size: cover;
+}
+
+#box2{
+    background-color: aquamarine;
+    background-image: url("./profiles\ photos/person2.jpeg");
+    background-size: cover;
+
+}
+
+#box3{
+    background-color: blanchedalmond;
+    background-image: url("./profiles\ photos/person3.jpeg");
+    background-size: cover;
+}
+
+#box4{
+    background-color: yellow;
+    background-image: url("./profiles\ photos/person4.jpeg");
+    background-size: contain;
+}
+
+#box5{
+    background-color: violet;
+    background-image: url("./profiles\ photos/person5.jpeg");
+    background-size: cover;
+}
